@@ -31,7 +31,7 @@ I'm a passionate tech explorer currently completing my Bachelor's in Information
 
 ### 📫 Let’s connect!
 - Portfolio: [Coming Soon]
-- Email: sabinmsp.dev@gmail.com
+- Email: sabinmsp@gmail.com
 -https://www.linkedin.com/in/sabin-man-singh-pradhan-a26028307/ 
 
 
