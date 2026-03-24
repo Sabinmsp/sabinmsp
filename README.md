@@ -1,39 +1,88 @@
-## Hi there 👋 I'm Sabin!
+# 🚀 Sabin Pradhan — AI Engineer & Builder
 
-I'm a passionate tech explorer currently completing my Bachelor's in Information Technology in Australia. I love building creative digital solutions, especially in the areas of:
+I build AI-powered systems and products that solve real problems — from intelligent assistants to full-stack applications.
 
-- 💻 **UX/UI Design & 3D Modeling** – I transform ideas into engaging visuals and interactive experiences.
-- 🤖 **AI-Powered Web Apps** – Currently experimenting with AI agents, fitness apps, budgeting tools, and real-time trackers.
-- 📈 **Startup & Productivity Enthusiast** – I love blending tech with business ideas to solve real-world problems.
+Currently focused on LLMs, RAG systems, and product-driven AI engineering.
 
 ---
 
-### 🚀 Projects I'm working on
-- 🧠 **Muscle AI Coach** – AI that guides workouts based on user input
-- 💸 **Budget AI App** – Helps students track expenses and savings
-- 🍽️ **Smart Cafe App** – UX/UI design for an ordering experience
-- 🏋️‍♂️ **Gym AI Assistant** – Personalized workout and meal planner
+## 🧠 What I Do
+
+- 🤖 AI Systems Engineering  
+  Build end-to-end AI applications using FastAPI, LangChain, RAG, and vector databases
+
+- 💻 Full-Stack Development  
+  Develop scalable apps using Next.js, React, and modern backend architectures
+
+- 🎯 Product Thinking  
+  I don’t just code — I design systems that deliver real user value
 
 ---
 
-### 🧠 Currently Learning
-- React • Next.js • Prisma • Supabase • Python FastAPI • LangChain • AI Agents • Product Thinking
+## 🚀 Featured Projects
+
+### 🧠 GenAI Customer Support Agent
+- Built a production-style AI assistant using FastAPI + LangChain + RAG
+- Handles real-world queries with context-aware responses
+- Designed structured outputs and scalable backend architecture
 
 ---
 
-### 💡 Goals
-- ✅ Land a software developer role before graduation (Oct 2025)
-- ✅ Help local businesses go digital with AI tools
-- 💰 Earn $100K/year through tech, creativity, and hustle
-- 🧘‍♂️ Stay fit, focused, and inspired every day
+### 🏋️ GymCoach AI
+- AI fitness assistant powered by PDF ingestion + embeddings + FAISS
+- Converts static documents into intelligent, queryable knowledge
+- Focus on personalization and real-time response generation
 
 ---
 
-### 📫 Let’s connect!
-- Portfolio: [Coming Soon]
-- Email: sabinmsp@gmail.com
--https://www.linkedin.com/in/sabin-man-singh-pradhan-a26028307/ 
+### 💸 Budget AI App
+- Smart financial tracking system for students
+- Designed for behavior change, not just tracking
+- Planned AI insights for predictive spending and savings
 
+---
 
-> _"Progress over perfection. Show up every day, stay curious, and build things that matter."_
+### 🧩 Four Wins App
+- Productivity system based on daily execution (not motivation)
+- Integrated AI coaching for actionable daily decisions
+- Built with a focus on habit formation and discipline
 
+---
+
+## ⚙️ Tech Stack
+
+AI / Backend
+- Python • FastAPI • LangChain • RAG • FAISS • OpenRouter
+
+Frontend
+- React • Next.js • Tailwind CSS
+
+Database / Tools
+- Supabase • Prisma • Git • Vercel
+
+---
+
+## 🧠 Currently Focused On
+
+- Building AI agents that can take actions, not just chat
+- Designing scalable RAG architectures
+- Shipping real-world MVPs fast
+
+---
+
+## 🎯 Goals
+
+- Land a Software / AI Engineer role
+- Build systems that generate real business value
+- Grow into a top 1% product-focused AI engineer
+
+---
+
+## 📫 Contact
+
+- Email: sabinmsp@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/sabin-pradhan-652b333b6/ 
+
+---
+
+> “I build. I ship. I improve. Every single day.
